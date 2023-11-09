@@ -1,0 +1,56 @@
+body{
+	background-color: brown;
+}
+
+h1{
+	text-align:center;
+	letter-spacing: 15px;
+	font-size: 60px;
+	font-family:Century Gothic, Georgia, Times New Roman, Times, serif;
+	font-weight: bolder;
+	text-shadow: 2px 2px #ffffff;
+	color:orange
+
+	
+}
+h2{
+	letter-spacing: 5px;
+	font-family:Century Gothic, Georgia, Times New Roman, Times, serif;
+	color:white;
+	
+	
+}
+
+p{
+	font-family:Trebuchet MS, Arial, Helvetica, sans-serif;
+	text-align:justify;
+	color:orange;
+}
+
+/* unvisited link */
+a:link {
+  color: yellow;
+    text-decoration: none;
+
+}
+
+/* visited link */
+a:visited {
+  color: white;
+    text-decoration: none;
+
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+    text-decoration: none;
+
+}
+
+/* selected link */
+a:active {
+  color: white;
+    text-decoration: none;
+
+}
